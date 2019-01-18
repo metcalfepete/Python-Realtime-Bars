@@ -46,7 +46,7 @@ c.pack()
 bar = ['' for i in range(numchart)]
 text = ['' for i in range(numchart)]
 for i in range(numchart): 
-	barwidth = (c_width - c_margin - (numchart-1)*b_space)/4
+	barwidth = (c_width - c_margin - (numchart-1)*b_space)/numchart
 	x0 = c_margin + i*(barwidth+b_space) - (b_space/2)
 	y0 = c_height - c_margin - 3 
 	x1 = x0+ barwidth
