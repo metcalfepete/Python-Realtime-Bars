@@ -42,7 +42,7 @@ There are three functions in the code:
 - **_get_values()_** - add your custom Rasperry Pi or IoT calls for new data here. By default random values are inserted
 - **_resize_rect()_** - resize the bars based on the new realtime values, and write the real time values to the bar heading.
 
-##Some basic usability considerations
+## Some basic usability considerations
 
 If the font of the bar headings is increase, the margin space (_c_margin_) will probably need to be reviewed.
 
