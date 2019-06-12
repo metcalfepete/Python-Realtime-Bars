@@ -3,7 +3,7 @@ A Python realtime bars template for IoT or Raspberry Pi projects
 
 ![tkbar](tkbar.png)
 
-This is a Python tkinter dynamic bars example. My goal was to make a template that I could use for Raspberry Pi and Python IoT projects where I needed to some dynamic values in a group of bar charts.
+This is a Python tkinter dynamic bars example. My goal was to make a template that I could use for Raspberry Pi and Python IoT projects where I needed to have some dynamic values in a group of bar charts.
 
 
 
