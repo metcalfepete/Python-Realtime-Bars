@@ -44,7 +44,7 @@ There are three functions in the code:
 
 ## Some basic usability considerations
 
-If the font of the bar headings is increase, the margin space (_c_margin_) will probably need to be reviewed.
+If the font of the bar headings is increased tp a large value then the margin space (_c_margin_) will probably need to be reviewed.
 
 The default code is designed for a 1 line bar description. If the space is tight or there a lot of bars then multiple lines can be defined using  **_\n_** in the text.
 
